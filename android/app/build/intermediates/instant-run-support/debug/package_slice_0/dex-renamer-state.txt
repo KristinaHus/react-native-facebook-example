@@ -1,0 +1,4 @@
+#Sun Mar 25 23:03:26 EEST 2018
+base.0=/Users/kina/Desktop/GeekHub/facebook-login/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
